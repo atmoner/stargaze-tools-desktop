@@ -2,6 +2,9 @@
 
 > Stargaze-tools desktop
 
+![image](https://user-images.githubusercontent.com/1071490/173410789-6066854d-1123-4aec-b055-74483771fe1d.png)
+
+
 #### Build Setup
 
 ``` bash
